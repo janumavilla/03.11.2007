@@ -27,5 +27,11 @@ output:<br/>
 ![Screenshot (173)](https://user-images.githubusercontent.com/112294762/193874198-84c964d4-0307-43a5-8fa1-0e97d6ab47cf.png)
 9.<br/>
 ![Screenshot (174)](https://user-images.githubusercontent.com/112294762/193874268-31a997eb-42c7-4e88-a074-a4eb9d243a0b.png)
+10.<br/>
+![Screenshot (175)](https://user-images.githubusercontent.com/112294762/193874848-135495b3-89b1-40fe-9107-2a4635079194.png)
+11.<br/>
+![Screenshot (176)](https://user-images.githubusercontent.com/112294762/193874939-362951d1-5935-477f-88e3-e1f669cfac80.png)
+12.<br/>
+![Screenshot (177)](https://user-images.githubusercontent.com/112294762/193875020-98ff22c1-52c6-4be3-9299-5d2c8f50b3dc.png)
 
 
