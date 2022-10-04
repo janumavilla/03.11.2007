@@ -1,0 +1,121 @@
+> create database studentt;
+Query OK, 1 row affected (0.00 sec)
+
+mysql> create facultyy
+    -> create database facultyy;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'facultyy
+create database facultyy' at line 1
+mysql> create database facultyy;
+Query OK, 1 row affected (0.00 sec)
+
+mysql> create database departmentt;
+Query OK, 1 row affected (0.00 sec)
+
+mysql> create database courses;
+Query OK, 1 row affected (0.00 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| course             |
+| courses            |
+| department         |
+| departmentt        |
+| faculty            |
+| facultyy           |
+| mysql              |
+| performance_schema |
+| student            |
+| student1           |
+| studentt           |
+| studentt1          |
+| test               |
++--------------------+
+14 rows in set (0.00 sec)
+
+mysql> use studentt;
+Database changed
+mysql> create table studentt(regno int(10),name char(20),gender char(10),DOB int(10),mobileno int(10),city char(20);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+mysql> create table studentt(regno int(10),name char(20),gender char(10),DOB int(10),mobileno int(10),city char(20));
+Query OK, 0 rows affected (0.18 sec)
+
+mysql> desc student1;
+ERROR 1146 (42S02): Table 'studentt.student1' doesn't exist
+mysql> desc studentt;
++----------+----------+------+-----+---------+-------+
+| Field    | Type     | Null | Key | Default | Extra |
++----------+----------+------+-----+---------+-------+
+| regno    | int(10)  | YES  |     | NULL    |       |
+| name     | char(20) | YES  |     | NULL    |       |
+| gender   | char(10) | YES  |     | NULL    |       |
+| DOB      | int(10)  | YES  |     | NULL    |       |
+| mobileno | int(10)  | YES  |     | NULL    |       |
+| city     | char(20) | YES  |     | NULL    |       |
++----------+----------+------+-----+---------+-------+
+6 rows in set (0.02 sec)
+
+mysql> create table facultyy(facno int(10),name char(20),gender char(10),DOB int(10),mobileno int(10),DOJ int(10));
+Query OK, 0 rows affected (0.14 sec)
+
+mysql> desc facultyy;
++----------+----------+------+-----+---------+-------+
+| Field    | Type     | Null | Key | Default | Extra |
++----------+----------+------+-----+---------+-------+
+| facno    | int(10)  | YES  |     | NULL    |       |
+| name     | char(20) | YES  |     | NULL    |       |
+| gender   | char(10) | YES  |     | NULL    |       |
+| DOB      | int(10)  | YES  |     | NULL    |       |
+| mobileno | int(10)  | YES  |     | NULL    |       |
+| DOJ      | int(10)  | YES  |     | NULL    |       |
++----------+----------+------+-----+---------+-------+
+6 rows in set (0.03 sec)
+
+mysql> create table departmentt(deptno int(10),deptname char(20),depthead char(10));
+Query OK, 0 rows affected (0.05 sec)
+
+mysql> desc departmentt;
++----------+----------+------+-----+---------+-------+
+| Field    | Type     | Null | Key | Default | Extra |
++----------+----------+------+-----+---------+-------+
+| deptno   | int(10)  | YES  |     | NULL    |       |
+| deptname | char(20) | YES  |     | NULL    |       |
+| depthead | char(10) | YES  |     | NULL    |       |
++----------+----------+------+-----+---------+-------+
+3 rows in set (0.01 sec)
+
+mysql> create table courses (courseno int(10),coursedesc char(20),cousetype char(10),semno int(10),hallno int(10),facno int(10));
+Query OK, 0 rows affected (0.23 sec)
+
+mysql> desc courses;
++------------+----------+------+-----+---------+-------+
+| Field      | Type     | Null | Key | Default | Extra |
++------------+----------+------+-----+---------+-------+
+| courseno   | int(10)  | YES  |     | NULL    |       |
+| coursedesc | char(20) | YES  |     | NULL    |       |
+| cousetype  | char(10) | YES  |     | NULL    |       |
+| semno      | int(10)  | YES  |     | NULL    |       |
+| hallno     | int(10)  | YES  |     | NULL    |       |
+| facno      | int(10)  | YES  |     | NULL    |       |
++------------+----------+------+-----+---------+-------+
+6 rows in set (0.03 sec)
+
+mysql> alter table facultyy add dept char(10);
+Query OK, 0 rows affected (0.25 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> desc facultyy;
++----------+----------+------+-----+---------+-------+
+| Field    | Type     | Null | Key | Default | Extra |
++----------+----------+------+-----+---------+-------+
+| facno    | int(10)  | YES  |     | NULL    |       |
+| name     | char(20) | YES  |     | NULL    |       |
+| gender   | char(10) | YES  |     | NULL    |       |
+| DOB      | int(10)  | YES  |     | NULL    |       |
+| mobileno | int(10)  | YES  |     | NULL    |       |
+| DOJ      | int(10)  | YES  |     | NULL    |       |
+| dept     | char(10) | YES  |     | NULL    |       |
++----------+----------+------+-----+---------+-------+
+7 rows in set (0.02 sec)
