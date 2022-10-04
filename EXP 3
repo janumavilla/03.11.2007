@@ -1,0 +1,141 @@
+ desc colleges;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mysql> desc colleges' at line 1
+mysql> +--------+----------+------+-----+---------+-------+
+    -> | Field  | Type     | Null | Key | Default | Extra |
+    -> +--------+----------+------+-----+---------+-------+
+    -> | sno    | int(10)  | YES  |     | NULL    |       |
+    -> | name   | char(15) | YES  |     | NULL    |       |
+    -> | regno  | int(10)  | YES  |     | NULL    |       |
+    -> | branch | char(10) | YES  |     | NULL    |       |
+    -> | age    | int(10)  | YES  |     | NULL    |       |
+    -> +--------+----------+------+-----+---------+-------+
+    -> 5 rows in set (0.01 sec)
+    ->
+    -> mysql>  insert into colleges(sno,name,regno,branch,age) values(1,'lucky',192120018,'bio',22);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+--------+----------+------+-----+---------+-------+
+| Field  | Type     | Null ' at line 1
+mysql> Query OK, 1 row affected (0.00 sec)
+    ->
+    -> mysql>  insert into colleges values (2,'john',12356784,'eee',20);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Query OK, 1 row affected (0.00 sec)
+
+mysql>  insert into colleges values (2,'joh' at line 1
+mysql> Query OK, 1 row affected (0.00 sec)
+    ->
+    -> mysql> insert into colleges values (3,'satya',192321431,'ece',19);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Query OK, 1 row affected (0.00 sec)
+
+mysql> insert into colleges values (3,'saty' at line 1
+mysql> Query OK, 1 row affected (0.00 sec)
+    ->
+    -> mysql> select * from colleges;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Query OK, 1 row affected (0.00 sec)
+
+mysql> select * from colleges' at line 1
+mysql> +------+-------+-----------+--------+------+
+    -> | sno  | name  | regno     | branch | age  |
+    -> +------+-------+-----------+--------+------+
+    -> |    1 | lucky | 192120018 | bio    |   22 |
+    -> |    2 | john  |  12356784 | eee    |   20 |
+    -> |    3 | satya | 192321431 | ece    |   19 |
+    -> +------+-------+-----------+--------+------+
+    -> 3 rows in set (0.00 sec)
+    -> mysql> update colleges set regno=192120018 where name='lucky';
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+------+-------+-----------+--------+------+
+| sno  | name  | regno     | branch' at line 1
+mysql> Query OK, 0 rows affected (0.00 sec)
+    -> Rows matched: 1  Changed: 0  Warnings: 0
+    -> mysql> insert into faculty values(12,'ramu','m',19870911,20110809,987654356,'cse');
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Query OK, 0 rows affected (0.00 sec)
+Rows matched: 1  Changed: 0  Warnings: 0
+my' at line 1
+mysql> Query OK, 1 row affected (0.00 sec)
+    ->
+    -> mysql> insert into faculty values(44,'siva','m',19990806,20160901,989867454,'bio');
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Query OK, 1 row affected (0.00 sec)
+
+mysql> insert into faculty values(44,'siva'' at line 1
+mysql> Query OK, 1 row affected (0.00 sec)
+    ->
+    -> mysql> select * from faculty;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Query OK, 1 row affected (0.00 sec)
+
+mysql> select * from faculty' at line 1
+mysql> +-------+----------+--------+------------+------------+-----------+------+
+    -> | facno | facname  | gender | dob        | doj        | mobileno  | dept |
+    -> +-------+----------+--------+------------+------------+-----------+------+
+    -> | 1     | lakshith | m      | 2009-04-04 | 2018-11-21 | 997665424 | NULL |
+    -> | 12    | ramu     | m      | 1987-09-11 | 2011-08-09 | 987654356 | cse  |
+    -> | 44    | siva     | m      | 1999-08-06 | 2016-09-01 | 989867454 | bio  |
+    -> +-------+----------+--------+------------+------------+-----------+------+
+    -> 3 rows in set (0.00 sec)
+    ->
+    -> mysql> delete from faculty where facname='ramu';
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+-------+----------+--------+------------+------------+-----------+------+
+| fac' at line 1
+mysql> Query OK, 1 row affected (0.01 sec)
+    ->
+    -> mysql> select * from faculty;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Query OK, 1 row affected (0.01 sec)
+
+mysql> select * from faculty' at line 1
+mysql> +-------+----------+--------+------------+------------+-----------+------+
+    -> | facno | facname  | gender | dob        | doj        | mobileno  | dept |
+    -> +-------+----------+--------+------------+------------+-----------+------+
+    -> | 1     | lakshith | m      | 2009-04-04 | 2018-11-21 | 997665424 | NULL |
+    -> | 44    | siva     | m      | 1999-08-06 | 2016-09-01 | 989867454 | bio  |
+    -> +-------+----------+--------+------------+------------+-----------+------+
+    -> 2 rows in set (0.00 sec)
+    -> mysql> update faculty set dob=19891223 where dob=19990806;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+-------+----------+--------+------------+------------+-----------+------+
+| fac' at line 1
+mysql> Query OK, 1 row affected (0.00 sec)
+    -> Rows matched: 1  Changed: 1  Warnings: 0
+    ->
+    -> mysql> select * from faculty;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+my' at line 1
+mysql> +-------+----------+--------+------------+------------+-----------+------+
+    -> | facno | facname  | gender | dob        | doj        | mobileno  | dept |
+    -> +-------+----------+--------+------------+------------+-----------+------+
+    -> | 1     | lakshith | m      | 2009-04-04 | 2018-11-21 | 997665424 | NULL |
+    -> | 44    | siva     | m      | 1989-12-23 | 2016-09-01 | 989867454 | bio  |
+    -> +-------+----------+--------+------------+------------+-----------+------+
+    -> mysql> delete from faculty where dob=19501123;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+-------+----------+--------+------------+------------+-----------+------+
+| fac' at line 1
+mysql> Query OK, 1 row affected (0.00 sec)
+    ->
+    -> mysql> select*from faculty;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Query OK, 1 row affected (0.00 sec)
+
+mysql> select*from faculty' at line 1
+mysql> +-------+---------+--------+------------+------------+-----------+------+
+    -> | facno | facname | gender | dob        | doj        | mobileno  | dept |
+    -> +-------+---------+--------+------------+------------+-----------+------+
+    -> | 44    | siva    | m      | 1989-12-23 | 2016-09-01 | 989867454 | bio  |
+    -> +-------+---------+--------+------------+------------+-----------+------+
+    ->
+    -> mysql> select * from faculty;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+-------+---------+--------+------------+------------+-----------+------+
+| facn' at line 1
+mysql> +-------+----------+--------+------------+------------+-----------+------+
+    -> | facno | facname  | gender | dob        | doj        | mobileno  | dept |
+    -> +-------+----------+--------+------------+------------+-----------+------+
+    -> | 1     | lakshith | m      | 2009-04-04 | 2018-11-21 | 997665424 | NULL |
+    -> | 12    | ramu     | m      | 1987-09-11 | 2011-08-09 | 987654356 | cse  |
+    -> | 44    | siva     | m      | 1999-08-06 | 2016-09-01 | 989867454 | bio  |
+    -> +-------+----------+--------+------------+------------+-----------+------+
+    -> mysql> select * from courses;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+-------+----------+--------+------------+------------+-----------+------+
+| fac' at line 1
+mysql> +----------+------------+------------+-------+--------+-------+
+    -> | CourseNo | CourseDesc | CourseType | SemNo | HallNo | FacNo |
+    -> +----------+------------+------------+-------+--------+-------+
+    -> | 5        | management | A          | 3     | 204    | 34    |
+    -> | 9        | civil      | B          | 6     | 789    | 44    |
+    -> +----------+------------+------------+-------+--------+-------+
+
+
