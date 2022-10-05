@@ -33,5 +33,19 @@ output:<br/>
 ![Screenshot (176)](https://user-images.githubusercontent.com/112294762/193874939-362951d1-5935-477f-88e3-e1f669cfac80.png)
 12.<br/>
 ![Screenshot (177)](https://user-images.githubusercontent.com/112294762/193875020-98ff22c1-52c6-4be3-9299-5d2c8f50b3dc.png)
+13.<br/>
+![Screenshot (178)](https://user-images.githubusercontent.com/112294762/194059475-e6499061-3e49-4b18-83a2-f28d7c04a725.png)
+14.<br/>
+![Screenshot (180)](https://user-images.githubusercontent.com/112294762/194059549-3580f915-5860-4a56-8f2f-94bc663adf94.png)
+15.<br/>![Screenshot (181)](https://user-images.githubusercontent.com/112294762/194059613-0bd7584f-05af-425b-a528-e4f3e781e9bc.png)
+
+16.<br/>
+![Screenshot (182)](https://user-images.githubusercontent.com/112294762/194059704-109d57ba-eec1-4ea1-84bb-efcd4129e6a5.png)
+
+17.<br/>
+![Screenshot (181)](https://user-images.githubusercontent.com/112294762/194059767-548ef5b5-c15b-4253-9af9-c57a60fd6574.png)
+
+18.<br/>
+![Screenshot (183)](https://user-images.githubusercontent.com/112294762/194059851-1552b4bf-342f-4203-a45c-fc6c5542743d.png)
 
 
