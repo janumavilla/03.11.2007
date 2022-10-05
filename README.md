@@ -47,5 +47,11 @@ output:<br/>
 
 18.<br/>
 ![Screenshot (183)](https://user-images.githubusercontent.com/112294762/194059851-1552b4bf-342f-4203-a45c-fc6c5542743d.png)
+19.<br/>
+![Screenshot (187)](https://user-images.githubusercontent.com/112294762/194060692-1887a3c1-f6ce-4dad-892b-c84fae980775.png)
+20.<br/>
+![Screenshot (188)](https://user-images.githubusercontent.com/112294762/194060807-c112af10-2b9e-4aaf-93bb-e259ece18569.png)
+21.<br/>
+![Screenshot (189)](https://user-images.githubusercontent.com/112294762/194060908-05186266-6911-42a3-80d9-7b3497459271.png)
 
 
