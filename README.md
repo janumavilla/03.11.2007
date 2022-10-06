@@ -9,6 +9,7 @@ output:<br/>
 ![Screenshot (163)](https://user-images.githubusercontent.com/112294762/193797203-2c61ec4d-eb0b-4de3-b89e-629a1ac8cbdf.png)
 4.<br/>
 ![Screenshot (164)](https://user-images.githubusercontent.com/112294762/193797326-9086efd6-9347-4e68-9a08-70516237da07.png)
+
 https://github.com/janumavilla/03.11.2007/blob/main/EXP%2
 exp 2: output
 1.<br/>
@@ -28,8 +29,6 @@ exp 3: output
 ![Screenshot (172)](https://user-images.githubusercontent.com/112294762/193874134-cb805f3b-eb12-462e-a430-0f4901d57b52.png)
 4.<br/>
 ![Screenshot (173)](https://user-images.githubusercontent.com/112294762/193874198-84c964d4-0307-43a5-8fa1-0e97d6ab47cf.png)
-
-exp 3 : output
 5.<br/>
 ![169](https://user-images.githubusercontent.com/112294762/194215951-622a0b43-73ee-4471-ba4d-3c109acda1a2.png)
 6.<br/>
@@ -57,12 +56,14 @@ exp 4: output
 
 exp 5 : output
 1.<br/>
-![177](https://user-images.githubusercontent.com/112294762/194216830-c91c1cf0-fd1d-409c-921c-54529a7da777.png)
+![21](https://user-images.githubusercontent.com/112294762/194274894-7542e528-4991-4f45-8c02-a419d0582ed3.png)
 2.<br/>
-![178](https://user-images.githubusercontent.com/112294762/194216861-0a5db03a-010b-4d5d-af5a-6ba9ab9a11b1.png)
+![177](https://user-images.githubusercontent.com/112294762/194216830-c91c1cf0-fd1d-409c-921c-54529a7da777.png)
 3.<br/>
-![179](https://user-images.githubusercontent.com/112294762/194216934-775e87c2-f9be-408c-951d-10415561b930.png)
+![178](https://user-images.githubusercontent.com/112294762/194216861-0a5db03a-010b-4d5d-af5a-6ba9ab9a11b1.png)
 4.<br/>
+![179](https://user-images.githubusercontent.com/112294762/194216934-775e87c2-f9be-408c-951d-10415561b930.png)
+5.<br/>
 ![180](https://user-images.githubusercontent.com/112294762/194217002-05655a9c-6aad-4c0e-ab44-4e6fa57d797d.png)
 5.<br/>
 ![181](https://user-images.githubusercontent.com/112294762/194217074-b973b6e0-2425-4e25-9438-be5ebad74751.png)
@@ -98,7 +99,7 @@ exp 9: output
 
 exp 10 : output
 1.<br/>
-![Uploading 185.png…]()
+![185](https://user-images.githubusercontent.com/112294762/194275137-7c083959-86a8-46cc-8c29-1e7ee3ea3c84.png)
 2.<br/>
 ![186](https://user-images.githubusercontent.com/112294762/194223238-7510e148-c79b-4200-a549-7e1d7512cd70.png)
 
