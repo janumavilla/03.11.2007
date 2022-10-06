@@ -84,6 +84,12 @@ exp 9
 ![200](https://user-images.githubusercontent.com/112294762/194214791-b4e4131b-2762-4bd1-8a02-6c0c28d91513.png)
 30.<br/>
 ![201](https://user-images.githubusercontent.com/112294762/194214841-f90a496f-a344-4095-934a-556a9ecb6aa2.png)
+exp 10
+
+1.<br/>
+![Uploading 185.png…]()
+2.<br/>
+![186](https://user-images.githubusercontent.com/112294762/194223238-7510e148-c79b-4200-a549-7e1d7512cd70.png)
 
 
 
