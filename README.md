@@ -95,6 +95,18 @@ exp 11
 1.<br/>
 ![187](https://user-images.githubusercontent.com/112294762/194225925-fdaa1aac-2f00-4fd0-8000-6618ea8ed643.png)
 
+exp 12: output
+1.<br/>
+![188](https://user-images.githubusercontent.com/112294762/194263514-846d189f-6c0d-4db1-85d3-d9260127524a.png)
+2.<br/>
+![191](https://user-images.githubusercontent.com/112294762/194264359-470e719f-a3e9-4ef7-9773-70b54ba8fd3d.png)
+3.<br/>
+![192](https://user-images.githubusercontent.com/112294762/194264464-b4c89c5f-7c10-4754-b34c-e8082abdd5f6.png)
+4.<br/>
+![193](https://user-images.githubusercontent.com/112294762/194264544-83cd9a14-6a8c-49fc-9679-0627f554ee21.png)
+5.<br/>
+![194](https://user-images.githubusercontent.com/112294762/194264636-c771633c-7241-4749-98d3-9cea6e1316bd.png)
+
 
 
 
