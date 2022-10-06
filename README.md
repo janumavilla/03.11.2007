@@ -28,7 +28,8 @@ exp 3: output
 ![Screenshot (172)](https://user-images.githubusercontent.com/112294762/193874134-cb805f3b-eb12-462e-a430-0f4901d57b52.png)
 4.<br/>
 ![Screenshot (173)](https://user-images.githubusercontent.com/112294762/193874198-84c964d4-0307-43a5-8fa1-0e97d6ab47cf.png)
-exp 3
+
+exp 3 : output
 5.<br/>
 ![169](https://user-images.githubusercontent.com/112294762/194215951-622a0b43-73ee-4471-ba4d-3c109acda1a2.png)
 6.<br/>
@@ -65,9 +66,15 @@ exp 5 : output
 ![180](https://user-images.githubusercontent.com/112294762/194217002-05655a9c-6aad-4c0e-ab44-4e6fa57d797d.png)
 5.<br/>
 ![181](https://user-images.githubusercontent.com/112294762/194217074-b973b6e0-2425-4e25-9438-be5ebad74751.png)
+
 exp 6 : output
 1.<br/>
-![Screenshot (190)](https://user-images.githubusercontent.com/112294762/194062503-9f677b7e-77fa-49c2-8fd8-c5fc58058f63.png)
+![22](https://user-images.githubusercontent.com/112294762/194273615-420c00df-6c22-4ccf-9299-0e932d9fabc5.png)
+2.<br/>
+![23](https://user-images.githubusercontent.com/112294762/194273675-b5dfbaa1-6f44-4ebe-a322-169a76c58cdc.png)
+3.<br/>
+![24](https://user-images.githubusercontent.com/112294762/194273732-9e6de9d6-7318-41ca-8fae-224b9d1aa2d1.png)
+
 exp 7 : output
 1.<br/>
 ![Screenshot (188)](https://user-images.githubusercontent.com/112294762/194213530-29abc0bf-7adf-4e6a-b386-a105931731f4.png)
