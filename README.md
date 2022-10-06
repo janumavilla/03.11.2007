@@ -9,7 +9,8 @@ output:<br/>
 ![Screenshot (163)](https://user-images.githubusercontent.com/112294762/193797203-2c61ec4d-eb0b-4de3-b89e-629a1ac8cbdf.png)
 4.<br/>
 ![Screenshot (164)](https://user-images.githubusercontent.com/112294762/193797326-9086efd6-9347-4e68-9a08-70516237da07.png)
-exp 2
+https://github.com/janumavilla/03.11.2007/blob/main/EXP%2
+exp 2: output
 1.<br/>
 ![Screenshot (165)](https://user-images.githubusercontent.com/112294762/193797953-5db851d4-ab3e-465b-b659-79191a232a58.png)
 2.<br/>
