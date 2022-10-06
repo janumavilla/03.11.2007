@@ -90,6 +90,9 @@ exp 10
 ![Uploading 185.png…]()
 2.<br/>
 ![186](https://user-images.githubusercontent.com/112294762/194223238-7510e148-c79b-4200-a549-7e1d7512cd70.png)
+exp 11
+1.<br/>
+![187](https://user-images.githubusercontent.com/112294762/194225925-fdaa1aac-2f00-4fd0-8000-6618ea8ed643.png)
 
 
 
