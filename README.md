@@ -175,6 +175,18 @@ exp 13: output
 2.<br/>
 ![138](https://user-images.githubusercontent.com/112294762/194685596-81e42aeb-afb2-4ba8-b5b4-0496ea0e9630.png)
 
+exp 19: output
+![image](https://user-images.githubusercontent.com/112294762/194686558-a2a93539-c456-44c3-a0c0-d9deb1e8a2f9.png)
+2.<br/>
+![image](https://user-images.githubusercontent.com/112294762/194686573-11cd6f33-d7d7-49fe-b5db-f46719375932.png)
+
+exp 20: output
+1.<br/>
+![image](https://user-images.githubusercontent.com/112294762/194686593-38657ada-2bc2-4c8e-8eab-136fae424f96.png)
+2.<br/>
+![image](https://user-images.githubusercontent.com/112294762/194686620-2db7fe25-458c-4cc9-9369-e3bc0712912a.png)
+
+
 
 
 
