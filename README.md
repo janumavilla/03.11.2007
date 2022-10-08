@@ -169,6 +169,14 @@ exp 22: output
 2.<br/>
 ![136](https://user-images.githubusercontent.com/112294762/194685374-15e248f3-e498-4b26-8d7e-7ab79507df3b.png)
 
+exp 13: output
+1.<br/>
+![139](https://user-images.githubusercontent.com/112294762/194685564-d526d9d5-435e-4dfa-abc2-578ab4a1492a.png)
+2.<br/>
+![138](https://user-images.githubusercontent.com/112294762/194685596-81e42aeb-afb2-4ba8-b5b4-0496ea0e9630.png)
+
+
+
 
 
 
